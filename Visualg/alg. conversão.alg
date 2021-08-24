@@ -24,6 +24,9 @@ inicio
       leia (preco)
       imposto <- (preco * 60) /100
       escreval (" O imposto sera US$", imposto)
+      escreval (" fim execução")
+      
+      
       
 
 fimalgoritmo
